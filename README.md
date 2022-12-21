@@ -6,4 +6,4 @@ car_classification.ipynb is the main file containing all the code related to my 
 
 The code can be run independently anywhere. It pulls data from the internet and then does all the needed tasks.
 
-Please let me in case of any questions issues faced with loading the repo.
+Please let me know in case there are any questions or issues with loading the repo.
